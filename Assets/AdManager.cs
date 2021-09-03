@@ -8,12 +8,12 @@ public class AdManager : MonoBehaviour {
 
     public static AdManager instance;
 
-    private string appID = "ca-app-pub-4285457225683780~5302296249";
+    private string appID = "";
 
   
 
     private InterstitialAd fullScreenAd;
-    private string fullScreenAdID = "ca-app-pub-4285457225683780/8345879091";
+    private string fullScreenAdID = "";
 
   
 
